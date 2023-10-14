@@ -1,4 +1,4 @@
-[Grapesjs Github Code](hhttps://github.com/GrapesJS/grapesjs)
+[Grapesjs Github Code](https://github.com/GrapesJS/grapesjs)
 
 [Grapesjs Tutorial](https://grapesjs.com/docs/)
 
